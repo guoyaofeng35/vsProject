@@ -1,0 +1,4 @@
+interface:
+  display_name: "会议纪要"
+  short_description: "把会议输入整理成中文 Markdown 纪要。"
+  default_prompt: "Use $meeting-minutes to turn meeting notes into a structured Chinese Markdown summary."
